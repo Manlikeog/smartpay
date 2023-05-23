@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">SmartPay</string>
+
+    //Headings
+    <string name="heading_one">Finance app the safest and most trusted</string>
+    <string name="heading_two">The fastest transaction process only here</string>
+
+    //OnBoarding
+    <string name="on_boarding_skip">Skip</string>
+    <string name="on_boarding_next">Next</string>
+    <string name="on_boarding_get_started">Get Started</string>
+
+    //login
+    <string name="login_heading_one">Hi There! 👋</string>
+    <string name="login_heading_two">Welcome back, Sign in to your account</string>
+    <string name="login_forgot_password">Forgot Password</string>
+    <string name="login_or">OR</string>
+    <string name="login_sign_in">Sign in</string>
+    <string name="login_sign_up">Sign up</string>
+    <string name="login_empty_account">Don\'t have an account?\ </string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    //descriptions
+    <string name="desc_one">Your finance works start here. Our here to help you track and deal with speeding up your transactions</string>
+    <string name="desc_two">Get easy to pay all your bills with just a few steps. Paying your bills become fast and efficient</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //sign_up
+    <string name="sign_up_heading_one">Create a SmartPay account</string>
+    <string name="sign_up_second_text">Already have an account?\ </string>
+    <string name="sign_up_third_text">Sign in</string>
+
+    //otp
+    <string name="otp_heading_one">Verify it\'s you </string>
+    <string name="otp_heading_two">We send a code to (****@gmail.com). Enter it here to verify your identity</string>
+    <string name="otp_resend">Resend Code 30 secs</string>
+    <string name="otp_confirm">Confirm</string>
+
+    //details
+    <string name="detail_heading">Hey there! tell us a bit about yourself</string>
+    <string name="detail_full_name">Full name</string>
+    <string name="detail_select_country">Select Country</string>
+    <string name="detail_password">Password</string>
+    <string name="detail_username">Username</string>
+
+    //create_pin
+    <string name="create_pin_header">Set your PIN code</string>
+    <string name="create_pin_sub_header">We use state-of-the-art security measures to protect your information at all times</string>
+    <string name="create_pin_button">Create Pin</string>
+
+    //confirmation
+    <string name="confirmation_header">Congratulations, James</string>
+    <string name="confirmation_sub_header">You\'ve completed the onboarding, you can start using</string>
+
+    //password recovery
+    <string name="forgot_password_header">Password Recovery</string>
+    <string name="forgot_password_sub_header">Enter your registered email below to receive password instructions</string>
+
+    //verify identity
+    <string name="verify_identity_header">Verify your identity</string>
+    <string name="verify_identity_sub_header">Where would you like Smartpay to send your security code?</string>
+
+    //fake email
+    <string name="fake_email">A*****@gmail.com</string>
+
+    //reset password
+    <string name="reset_password">Please, enter a new password below different from the previous password</string>
+</resources>
